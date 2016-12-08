@@ -1,7 +1,0 @@
-[package]
-name = "mit"
-version = "1.0.0"
-authors = ["BookOwl <stanleybookowl@gmail.com>"]
-
-[dependencies]
-chrono = "0.2.25"

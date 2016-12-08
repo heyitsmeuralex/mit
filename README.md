@@ -1,16 +1,13 @@
 # mit
-Writes the MIT license.
+Writes the MIT license. This time in Node!
 
 ## Installing
 ```
-$ git clone https://github.com/BookOwl/mit.git
-$ cd mit
-$ cargo build --release
-$ cp ./target/release/mit /usr/local/bin/
+$ git clone https://github.com/nanalan/mit.git
 ```
 
 ## Usage
-`mit "Your Name" > LICENSE.txt`
+`node mit.js "Your Name" > LICENSE.txt`
 
 ## License
 See LICENSE.txt
